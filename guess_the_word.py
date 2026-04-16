@@ -54,24 +54,13 @@ while active_game == True:
     elif "_" not in word_display:
         print("Congratulations! You win!")
         active_game = False
-          
-    
-
-         
-
-
-    
-
-
 """
 AI Context 1:
 Searched up "python trying to code a game similar to hangman. 
 Can you give me a hint for how to approach this without giving me the full solution?" via Google
 AI Context 2:
 Searched up "python trying to make a hangman game to show blanks" via Google to correct the random
-object used (from randrange to choice) and figure out the hangman-esque syntax
-AI Context 3:
-Searched up "python 
+object used (from randrange to choice) and figure out the hangman-esque syntax 
 """
 
     
